@@ -1,0 +1,112 @@
+.ant-input:focus {
+  border-color: #80bdff !important;
+  outline: 0;
+  -webkit-box-shadow: 0 0 0 2px rgba(87, 168, 233, 0.2) !important;
+  box-shadow: 0 0 0 2px rgba(87, 168, 233, 0.2) !important;
+}
+
+
+.ant-picker-suffix {
+  svg {
+    fill: $primary;
+  }
+}
+
+
+.ant-picker {
+  height: 50px !important;
+  border-color: #cdd2d8 !important;
+
+}
+
+.ant-picker:hover,
+.ant-picker-focused {
+   background: #fcfcfc;
+  box-shadow: 1px 2px 12px rgba(0, 0, 0, .08) !important;
+}
+
+.ant-select-selector {
+  height: 45px !important;
+  border-color: #cdd2d8 !important;
+}
+
+.ant-select:not(.ant-select-disabled):hover .ant-select-selector {
+  border-color: transparent !important;
+
+}
+
+.ant-select-arrow svg {
+  fill: $primary;
+}
+
+
+.ant-select-selector .ant-select-selection-search input::placeholder {
+  color: #999 !important;
+}
+
+.ant-select:hover,
+.ant-select-focused:not(.ant-select-disabled).ant-select-single:not(.ant-select-customize-input) .ant-select-selector {
+  border-color: transparent !important;
+  background: #fcfcfc;
+  box-shadow: 1px 2px 12px rgba(0, 0, 0, .08) !important;
+}
+
+.ant-select {}
+
+.ant-input:hover,
+.ant-input:focus {
+  background: #fcfcfc;
+  box-shadow: 1px 2px 12px rgba(0, 0, 0, .08) !important;
+}
+
+.ant-radio-checked .ant-radio-inner,
+.ant-radio-inner::after {
+  border-radius: 0 !important;
+  border-color: #ce202f !important;
+
+}
+
+.ant-radio-checked .ant-radio-inner::after {
+
+  width: 12px !important;
+  height: 12px !important;
+}
+
+.ant-radio-inner {
+  border-radius: 0 !important;
+  border-color: #cdd2d8 !important;
+  height: 20px !important;
+  width: 20px !important
+}
+
+.c-main>.container-fluid {
+  max-width: 992px;
+  margin: 0 auto;
+}
+
+.ant-switch-checked .ant-switch-inner {
+  margin: 0px 25px 0 10px !important;
+}
+
+.ant-switch .ant-switch-inner {
+  font-size: 14px;
+}
+
+.ant-form-item-control-input-content button.ant-switch {
+  background-color: rgb(92, 92, 92);
+  height: 30px;
+  width: 84px;
+}
+
+.ant-form-item-control-input-content button.ant-switch .ant-switch-handle {
+  height: 25px;
+  width: 25px;
+  border-radius: 50%;
+  overflow: hidden;
+
+}
+
+
+.ant-form-item-control-input-content button.ant-switch.ant-switch-checked .ant-switch-handle {
+  left: calc(100% - 25px - 2px);
+}

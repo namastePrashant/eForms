@@ -1,0 +1,99 @@
+
+.auth-container {
+  background-image: linear-gradient(to bottom , rgba(0,0,0,.2) , rgba(0,0,0,.2)), url('../../src/assets/images/back-1.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 50px 0;
+  .row--auth-form {
+    max-width: 750px;
+    width: 100%;
+    margin: 0 auto;
+
+    @media (max-width: 576px) {
+      flex-direction: column-reverse;
+
+    }
+    
+    .auth-left-wrapper {
+      height: 100%;
+      background: #fff;
+      box-shadow: 0 2px 32px rgba(0,0,0,.12);
+      position: relative;
+      z-index: 9;
+      display: grid;
+      place-items: center;
+      img {
+        width: 100%;     
+
+        @media (max-width: 576px) {
+          width: 60%;
+        }
+
+      }
+    }
+
+    .auth-form-wrapper {
+      height: 100%;
+      background: #f5f5f5;
+      padding: 40px;
+      
+
+      .ant-form {
+        .ant-form-item-label {
+          padding-bottom: 3px !important;
+          label {
+            font-size: 15px !important;
+            font-weight: 500 !important;
+
+            &:before {
+              content: '';
+            }
+          }
+        }
+
+        .ant-form-item-control {
+          .ant-form-item-control-input input {
+            height: 40px;
+            font-weight: 500;
+            font-size: 15px!important;
+  
+          }
+          .ant-form-item-explain.ant-form-item-explain-error {
+            letter-spacing: .5px;
+              font-size: 13px;
+          }
+        } 
+      }
+
+      .forgot-pass-link {
+        margin-top: 5px;
+        display: inline-block;
+        font-size: 14px;
+      }
+      button.ant-btn.ant-btn-primary {
+        font-weight: 600;
+        letter-spacing: 1px;
+        font-size: 17px;
+        text-transform: capitalize;
+   
+      }
+
+      .bottom-buttons{
+        justify-content: space-between;
+        display: flex;
+        align-items: center;
+
+        a{
+          font-size:15px;
+        }
+      }
+    }
+
+  }
+}
+
+
+.ant-btn-primary{
+  font-weight: 700 !important;
+}

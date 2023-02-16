@@ -1,0 +1,1775 @@
+[33mcommit d84a0f70f29a80adc3f9fb1a75d1d3f2295089eb[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m)[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Mon Jan 18 11:20:47 2021 +0545
+
+    [ADD] Adds sku_id keys for sku submission
+    
+    -check after api is fixed
+
+[33mcommit bf1ef960bcdb154ff0c1002cb76e0fd0fa8aaf04[m[33m ([m[1;31morigin/dev[m[33m)[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Fri Jan 15 17:52:39 2021 +0545
+
+    [ADD] Adds sidebar submenu
+
+[33mcommit 10cbf5f707e8b0d809deb1c3751bf9cdaa238df4[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Fri Jan 15 15:36:14 2021 +0545
+
+    [FIX] Fixes local error in forminput for validating checked by in
+    groupitems
+
+[33mcommit 911cba7c366e667924167ac5dc42579c982b7e86[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Fri Jan 15 14:45:10 2021 +0545
+
+    [ADD] Adds rrequired check in group items when submitting
+
+[33mcommit 5ae13170ce75b4278e0d4e531d8fa8786bc48bd7[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Fri Jan 15 11:46:59 2021 +0545
+
+    [FIX] Fixes overview relieving staff multiple updates
+
+[33mcommit 54a920e6e3831dd9ce489a2ff78637369a18d854[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Fri Jan 15 11:44:28 2021 +0545
+
+    [ADD] Adds message info in add more if preceeding addmore isnt filled
+
+[33mcommit 80cae04b07aa3d62dec65e1a3cac3cf986cbe7ca[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Fri Jan 15 10:57:27 2021 +0545
+
+    [WIP] Overview wip
+    
+    -fix after api is done
+
+[33mcommit 93c4cc375c16bef103060820f048832dd4248525[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Fri Jan 15 10:33:18 2021 +0545
+
+    [FIX] Fixes user id save when unlocking account
+
+[33mcommit fb4174220af0aaab825122678f5cd98e72ec4da9[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Fri Jan 15 09:54:39 2021 +0545
+
+    [ADD] Adds please accept valdation
+
+[33mcommit 7e3f43bbdb7c53d7ea3d3ca9f8a580fdaee02d9b[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Thu Jan 14 18:03:20 2021 +0545
+
+    [ADD] Clears error message in config fields once answered
+
+[33mcommit 71ce66f253bee1b48134c4d2729b619de4ea49cc[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Thu Jan 14 17:09:51 2021 +0545
+
+    clean up
+
+[33mcommit fedb34853224ed61e1f8ac82d06300e50e72e0db[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Thu Jan 14 17:02:18 2021 +0545
+
+    [ADD] Adds addmore count in all the inputs which has addmore
+
+[33mcommit de62966a8d93332f60261674df251fac3dfb18f0[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Thu Jan 14 16:34:58 2021 +0545
+
+    [ADD] Adds min and max value,checks for checked by required validation
+
+[33mcommit e7957f4c072502367afe2f1e199fe071da621869[m[33m ([m[1;31morigin/centralRedux[m[33m, [m[1;32mcentralRedux[m[33m)[m
+Merge: f8c0be8 0880def
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Thu Jan 14 15:25:52 2021 +0545
+
+    Merge branch 'dev' into centralRedux
+
+[33mcommit f8c0be89aed5a9d33fe58bc201b6e938d821dfb0[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Thu Jan 14 15:23:43 2021 +0545
+
+    wip
+
+[33mcommit 0880def37b442b7b4f3435a06122102f944a51d1[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Thu Jan 14 12:40:09 2021 +0545
+
+    [FIX] Fixes final inspection form ui
+
+[33mcommit d43cff13200db67c8deb53b0e8bc98236db154ff[m
+Merge: f10b7bc 1aa2c45
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Thu Jan 14 11:10:21 2021 +0545
+
+    Merge branch 'centralRedux' into dev
+
+[33mcommit 1aa2c455abd1ce635046be5a70207dbc8535154a[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Thu Jan 14 10:54:25 2021 +0545
+
+    [FIX] Fixes switch label
+
+[33mcommit 13c5983074275d2f71bb2195a4c03dc945cd425a[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Wed Jan 13 18:27:58 2021 +0545
+
+    [WIP] Final inspection form ui wip
+
+[33mcommit 7f697ce60825a40911317242b65b8f9663e8c210[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Wed Jan 13 17:52:35 2021 +0545
+
+    [ADD] Adds ui fixes to overview
+
+[33mcommit 4b62a3342775d5460d855344aa7ab8d41be41107[m[33m ([m[1;31morigin/UIRefinement[m[33m)[m
+Merge: dbe5ad0 fdf006d
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Wed Jan 13 17:12:57 2021 +0545
+
+    Merge remote-tracking branch 'origin/UIRefinement' into centralRedux
+
+[33mcommit fdf006d58214ff8ed4c73b606f6d0b59126219af[m
+Author: Deepan Giri <dpan.giri@gmail.com>
+Date:   Wed Jan 13 17:05:27 2021 +0545
+
+    fixes container size of final inspection
+
+[33mcommit dbe5ad0ed59c029ec1a8e5e26a7db8f90ebfae7b[m
+Merge: a0f47c7 1db32a2
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Wed Jan 13 16:58:42 2021 +0545
+
+    Merge remote-tracking branch 'origin/UIRefinement' into centralRedux
+
+[33mcommit 1db32a25df2ef25b5b3998191c241a1f7a9b0abf[m
+Author: Deepan Giri <dpan.giri@gmail.com>
+Date:   Wed Jan 13 16:53:09 2021 +0545
+
+    Changes deisgn of toggle switch, adds group items count
+
+[33mcommit a0f47c7480ccbc5901de39d9486ea70c0a48e570[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Wed Jan 13 16:48:00 2021 +0545
+
+    [FIX] Fixes sidebar collapse on menu click
+
+[33mcommit 396b2a11009888193f9511440b12bf480feb9619[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Wed Jan 13 14:08:09 2021 +0545
+
+    [ADD] Adds switch value label
+
+[33mcommit dac172e850a9dd97f247d6a5cd5e5bfecff8b606[m
+Author: Deepan Giri <dpan.giri@gmail.com>
+Date:   Wed Jan 13 13:58:13 2021 +0545
+
+    Refines design per client requirement
+
+[33mcommit 45a56476429317e8c778432e5b24dc174bcf39ac[m[33m ([m[1;32mUIRefinement[m[33m)[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Wed Jan 6 09:48:20 2021 +0545
+
+    [FIX] Fixes group items switch same classname case
+
+[33mcommit ef082fe44d5a0a089141be6e8bed52c7e96603f9[m
+Author: Deepan Giri <dpan.giri@gmail.com>
+Date:   Tue Jan 5 17:54:58 2021 +0545
+
+    Changes login screen , fixes reponses table responsive issue & other minor changes
+
+[33mcommit b9aa2198231a33c55f8788bbeb65447880e1d5d7[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Tue Jan 5 13:38:07 2021 +0545
+
+    [ADD] Adds forgot password url
+
+[33mcommit 99e8fc0721ecc7e0750259aa6dc3e87b70033297[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Tue Jan 5 12:50:35 2021 +0545
+
+    [ADD] Adds forgot password link in login
+
+[33mcommit f73d9d0115586f0c26f4cf7e0e9050d23bcee79a[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Tue Jan 5 12:37:40 2021 +0545
+
+    [ADD] Adds last item conditiion in group item
+
+[33mcommit 945393c84838497a9abdbc82098d381945cf0cc1[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Tue Jan 5 12:23:35 2021 +0545
+
+    [FIX] Fixes image size validation,overview submission with password
+    header
+
+[33mcommit 9d9a729e1fa0707e9739573cd7db5e8c85622a8e[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Tue Jan 5 12:00:05 2021 +0545
+
+    [FIX] Fixes login with password and header key in responses fetch
+
+[33mcommit 7876bb8413f733183c0972d488504f55becfe2de[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Tue Jan 5 10:40:17 2021 +0545
+
+    [WIP] New Login ui wip
+
+[33mcommit 04a0acf925a4b43d0e6f523563f87b6560a67d6f[m
+Merge: c11e526 60d2835
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Mon Jan 4 18:00:03 2021 +0545
+
+    Merge remote-tracking branch 'origin/UIRefinement' into centralRedux
+
+[33mcommit 60d28354ada33838562a295094c426a9b7940609[m
+Author: Deepan Giri <dpan.giri@gmail.com>
+Date:   Mon Jan 4 17:34:33 2021 +0545
+
+    Removes sidebar bottom nav
+
+[33mcommit c11e526e9fd34920b4ea356eb74f0eb7e73df66e[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Wed Dec 23 12:10:17 2020 +0545
+
+    [FIX] fixes login condition
+
+[33mcommit 8ff48be4211515b61fda329588cd621c633896c2[m
+Author: Deepan Giri <dpan.giri@gmail.com>
+Date:   Wed Dec 23 12:04:52 2020 +0545
+
+    UI refinement of forms
+
+[33mcommit 234c3a07a3bcf1ef3c5baf15df50417afe61761c[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Wed Dec 23 09:55:50 2020 +0545
+
+    minor fix
+
+[33mcommit 0e3da4dabc5053abef4a770e0d826699ce08aa34[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Wed Dec 23 09:42:00 2020 +0545
+
+    [FIX] Fixes login input label and placeholder
+
+[33mcommit a79e32217052a25aaf8ae0bd1eedddb3b2c82bf1[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Tue Dec 22 18:01:14 2020 +0545
+
+    [FIX] Fixes active forms navigation
+
+[33mcommit 5d0ad6ce6d209c739a17665e0bc27dd7dfd96a4b[m
+Author: Deepan Giri <dpan.giri@gmail.com>
+Date:   Tue Dec 22 17:58:52 2020 +0545
+
+    UI refinement
+
+[33mcommit 6f5e84730332f07afb3bce577fd71b4434c7d618[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Tue Dec 22 16:10:55 2020 +0545
+
+    [ADD] Adds sidebar bottom footer,overview class
+
+[33mcommit a51f40c73f99eaa89ab72869031f467fab109607[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Tue Dec 22 15:37:41 2020 +0545
+
+    [FIX] Fixes enter/sel;ect in login
+
+[33mcommit d6f3472d3a05129ee46f7f20595076a17e1b712e[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Tue Dec 22 15:14:50 2020 +0545
+
+    Fixes popover stylewq
+
+[33mcommit 0c655db3ca17a2f3e4ccf512b2038fb2066e93f5[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Tue Dec 22 14:39:42 2020 +0545
+
+    [FIX] Fixes create button press redirection to login in incognito
+
+[33mcommit 7f5d1a34a2e834b5dcd54e6f4e57204a5026bae2[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Tue Dec 22 14:20:38 2020 +0545
+
+    [FIX] Uses backend url from config
+
+[33mcommit ffd047f91fb4b10bf7b6b5384b6b9cf9373b9270[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Tue Dec 22 14:14:05 2020 +0545
+
+    [ADD] Adds completed forms in footer in responses
+
+[33mcommit 9e9e7d972b86742adc1e7384289fbebf2acfee18[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Tue Dec 22 14:03:16 2020 +0545
+
+    [ADD] Adds view button and admin panel link in responses
+
+[33mcommit 97738e05efc43045d0ea831ece597d6e2ccbe694[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Tue Dec 22 13:28:47 2020 +0545
+
+    [FIX] Fixes double toast in multiple places
+
+[33mcommit bcf65daa105aad74b05f8731044497fd379dbca6[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Tue Dec 22 12:36:40 2020 +0545
+
+    [FIX] Temp fix overview width
+
+[33mcommit cd616d1b43fcc8245db9564343b0227528ef52e6[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Tue Dec 22 12:19:15 2020 +0545
+
+    [ADd] adds back button in create form
+
+[33mcommit 13087de445f5df909756ea265557558a0758c8f1[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Tue Dec 22 12:12:04 2020 +0545
+
+    [ADD] Adds login via email input, header in create and responses
+
+[33mcommit ae60e82dceba3ba37e79d520e114238b32e111ba[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Tue Dec 22 11:46:21 2020 +0545
+
+    [ADd] Adds changes to resposnes
+    
+    -fixes image click
+    -adds logout
+    -renaming title and button
+
+[33mcommit 1e437d2f0b4d1aff2b96679689c341a166ec45de[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Fri Dec 18 17:11:00 2020 +0545
+
+    [ADD] Removes error from redux on save all submit
+
+[33mcommit 2ffc437ced48d1fa79d3f6d7b99757aafe66ee4d[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Fri Dec 18 16:07:41 2020 +0545
+
+    [ADD] Adds input type number in inputnumber
+
+[33mcommit e1e6f632a39d439506a8121ffb31511a1afe0398[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Fri Dec 18 16:00:18 2020 +0545
+
+    [FIX] Minor fix to final inspection
+
+[33mcommit d9510680282cdb52d69c93b915a9bc6301ea5640[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Fri Dec 18 15:43:36 2020 +0545
+
+    [FIX] Temp fixes final inspection validation
+
+[33mcommit c9b593115eecc3053c056fe60b1df7c229d51860[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Fri Dec 18 14:55:47 2020 +0545
+
+    [FIX] Fixes switch in groupitems
+
+[33mcommit 99387190055ff5c49f1821416d2a8d83c83b7048[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Fri Dec 18 14:06:59 2020 +0545
+
+    [ADD] Adds new switch
+
+[33mcommit 8cd2cf15c1ab15a5014590b3941cf034bdca8d07[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Thu Dec 17 14:49:02 2020 +0545
+
+    [ADD] adds base 64 encoding and decoding
+
+[33mcommit 26b4a5bef5ee5c998466b5fd4afef9d19a86b3e7[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Thu Dec 17 14:34:21 2020 +0545
+
+    [ADD] Changes made to url ,base 64 removed
+    
+    -:id added to checklist url so as to open the checklists from admin
+    panel
+
+[33mcommit 4d626a25c96787194df40d4ca64344f9e04e88b2[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Thu Dec 17 14:19:40 2020 +0545
+
+    [ADD] Adds admin panel button in sidebar
+
+[33mcommit da00659349e8e2fea73455490ffabad7f0f88f14[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Thu Dec 17 14:15:52 2020 +0545
+
+    [ADD] Adds base64 encoding checklist id
+
+[33mcommit ef4a71091ed2196a83d91771c051b939ba00469e[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Thu Dec 17 14:04:47 2020 +0545
+
+    [ADD] clears dirty check on save all success
+
+[33mcommit 16445561e12e8b0aa3cbc0595ed2e825284abbec[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Thu Dec 17 13:57:04 2020 +0545
+
+    [ADD] ADds save all functionality for saving from header
+
+[33mcommit 03a18dfca6072a73b278777aa3f682c1669bdc84[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Thu Dec 17 11:36:35 2020 +0545
+
+    [FIX] Fixes login credential clear on account lock
+
+[33mcommit a74c1bf675755ab9cd098e0be6dde739cf4cf9c4[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Thu Dec 17 11:21:50 2020 +0545
+
+    [ADD] Adds overview fixes for edit and create
+
+[33mcommit b100b032bc551558e55aa7838f70fe94a5507ada[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Wed Dec 16 17:46:24 2020 +0545
+
+    [FIX] Shows overview initial data
+
+[33mcommit d3eb5e556ef3ceca19b936c742572a478ba98a10[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Wed Dec 16 14:42:44 2020 +0545
+
+    [ADD] Handles default navigation
+
+[33mcommit a69dae2a8c4d27fe14d261a9971c9acd53d463a7[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Wed Dec 16 14:19:02 2020 +0545
+
+    [WIP] submission from header,validation loader wip
+
+[33mcommit 5c680e247fc27e2358f7631e1774e8f73f12c447[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Wed Dec 16 12:21:51 2020 +0545
+
+    [FIX] Fixes navigation in login,responses and checklist
+
+[33mcommit 61d0c359a5801c27627bd33b6b13c65c1c354e5e[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Wed Dec 16 12:03:42 2020 +0545
+
+    [ADD] Adds completeness check in sidebar
+
+[33mcommit c9a775644e3b1841f69f6d4f29e5d5f3da63ed0e[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Wed Dec 16 11:27:45 2020 +0545
+
+    [ADD] Adds ui of overview in sidebar and changes overview path to create
+
+[33mcommit e852e7a92b9b2391a6e2b00b258af89fcce1ae35[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Wed Dec 16 11:04:23 2020 +0545
+
+    [ADD] Adds validation in final inspection submit
+
+[33mcommit 0f6acb1939a97849bd5edc3630767a1364d930af[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Wed Dec 16 10:04:51 2020 +0545
+
+    [WIP] Completeness wip
+
+[33mcommit 20484e39c6581a4e131446142ce6a1c51f05e567[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Tue Dec 15 17:44:03 2020 +0545
+
+    [ADd] Adds iframe for summary inside modal
+
+[33mcommit b81cc24ac30f3811f0173607d94205e0b65225d9[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Tue Dec 15 14:41:41 2020 +0545
+
+    [ADD] Adds pagination in responses
+
+[33mcommit c1a7dfaac3c0a11603b15661cb68f12bf0b55138[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Tue Dec 15 11:55:14 2020 +0545
+
+    [ADD] adds login pin user id from login screen to  local storage
+    
+    -removes altimate folder  in  the repoo
+
+[33mcommit 03af79ecaecf06fd859394c0efaba75e59e63eb7[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Tue Dec 15 11:27:05 2020 +0545
+
+    [ADD] Adds initial login screen,responses  table ui
+
+[33mcommit 9ae6e2067e992f8d115708c8c7c21af3ff3f96cf[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Mon Dec 14 18:08:19 2020 +0545
+
+    [WIP]
+
+[33mcommit eee9eb2f6c9d41fccad6b9784b050750818a3e14[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Mon Dec 14 17:37:57 2020 +0545
+
+    [ADD] Adds error icon in sidebar
+
+[33mcommit fafb1d88173130e9e17fb6de44caa8c7adcb8643[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Mon Dec 14 17:17:52 2020 +0545
+
+    [ADD] new changes
+
+[33mcommit e715a4c469ff7c572e6637a207e9e46002285f15[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Mon Nov 30 17:09:12 2020 +0545
+
+    [ADD] Adds dirty check before final inspection submit
+
+[33mcommit 6a1b0cb7a9de141234438fd0d6a5985b540326ac[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Mon Nov 30 16:04:36 2020 +0545
+
+    [FIX] Minor fixes
+
+[33mcommit 59b321d893e3a3040cea250cbbd1965699be336d[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Mon Nov 30 16:01:58 2020 +0545
+
+    [FIX] Minor style fixes
+
+[33mcommit 42ba4a3fd70d57f573236afd13b34e9fa1d2fcba[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Mon Nov 30 16:00:20 2020 +0545
+
+    [ADD] Adds new border left for error and dirty flag
+
+[33mcommit 818d6cef4924b88d1285c8cf833d83c9d3d077f3[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Mon Nov 30 14:29:48 2020 +0545
+
+    [Fix]
+
+[33mcommit 4c44117f3b9fca11cd649583d3761b98402f400c[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Mon Nov 30 13:39:08 2020 +0545
+
+    [ADD] Changes positoin of remove button
+
+[33mcommit e675a2d4370234fe6a6e835ba9e1287443f43c09[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Mon Nov 30 13:32:33 2020 +0545
+
+    [ADD] Adds new remove button in group items
+
+[33mcommit 042e0bc55d8ce01cc0523900060e0e11f97fc522[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Fri Nov 27 17:33:17 2020 +0545
+
+    [FIX] Fixes final inspection disappearance
+
+[33mcommit 74fa3e18bae85283889de5c9472baa35dd18b1d0[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Fri Nov 27 17:09:35 2020 +0545
+
+    [FIX] Fixes dirty flag position
+
+[33mcommit 20fbeaa650fe45d84872d108294e4a1c594d0632[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Fri Nov 27 16:49:02 2020 +0545
+
+    [FIX] Adds memopization
+
+[33mcommit 62c72d292253506e200986b09b2312e3722c594c[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Fri Nov 27 14:40:14 2020 +0545
+
+    [FIX] Fixes dirty flag dispatch
+
+[33mcommit 4235dc0bf5c16ba7bf8ed9e0017ceeba67c1d2a2[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Fri Nov 27 14:29:00 2020 +0545
+
+    [FIX] Fixes validation
+
+[33mcommit 1b13630df733c64fab26db80b9094978ddc33cde[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Fri Nov 27 12:45:20 2020 +0545
+
+    [FIX] Fixes sidebar styling
+
+[33mcommit 2aa32704d910734c8a0abe1b9c95e06df3c46c4d[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Fri Nov 27 12:19:36 2020 +0545
+
+    [FIX] Fixes dirty flag
+
+[33mcommit 253faebeb50349e17fbfd82d9ec011e686625f2b[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Fri Nov 27 10:01:22 2020 +0545
+
+    [ADD] Adds stop propagation in sidebar,changes dirty flag icon
+
+[33mcommit 96e7c0c345e71f8fac8e5e3c23a6716b2ed244ff[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Fri Nov 27 09:33:12 2020 +0545
+
+    [FIX] Fixes submission from sidebar
+
+[33mcommit f1c68d0db4855baf22432a5b5df15765c3727167[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Thu Nov 26 18:32:20 2020 +0545
+
+    [WIP] Data submission wip
+
+[33mcommit c17cd16de354a89fcf794f8d0952a5afeae673a0[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Thu Nov 26 17:15:00 2020 +0545
+
+    [FIX] Refactors item form submission
+
+[33mcommit 82ae418cd59e7e9a778a0708a047227c5603e7aa[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Thu Nov 26 13:41:11 2020 +0545
+
+    [ADD] Adds tooltip on error and dirty flag icon
+
+[33mcommit 5d5791bbfadf5e849da842bc13f9e1974d3e0b72[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Thu Nov 26 13:37:14 2020 +0545
+
+    [ADD] Changes dirty flag icon and placement
+
+[33mcommit fb6abc259253048ee61fe16ed78a025663583a1b[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Thu Nov 26 11:10:35 2020 +0545
+
+    [ADD] Changes switch to radio button
+
+[33mcommit 140dbc1f49f5c826d1c72c778c4d7a09208b6fa0[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Thu Nov 26 00:02:58 2020 +0545
+
+    [FIX] Fixes default sidebar selection
+
+[33mcommit 1b8c828b6339264b1c12195dc9e6514387356149[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Wed Nov 25 23:54:05 2020 +0545
+
+    [FIX] Fixes 404 redirection
+
+[33mcommit c344f3ba11e00276b3b422e1876587a9d212be83[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Wed Nov 25 23:51:21 2020 +0545
+
+    [FIX] Fixes codesplitting/lazy loading
+
+[33mcommit 9d26e91cf4f52307596b8b413015b202b5a630f9[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Wed Nov 25 16:38:12 2020 +0545
+
+    [ADD] adds count check in dynamic dropdown
+
+[33mcommit f60bce8c77d816f906072a2eda347d1b63e101ba[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Wed Nov 25 16:05:20 2020 +0545
+
+    [ADd] Adds spinners during form submissions,required check wip
+
+[33mcommit f9c3b3260417df4c9e138ff3425add5c4a821ba6[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Wed Nov 25 12:22:06 2020 +0545
+
+    [ADD] Changes the way dirty flag is triggered and cleared on success
+
+[33mcommit bb3017692b65f37728c73bfbc6efbc16e22ea3c0[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Tue Nov 24 10:00:35 2020 +0545
+
+    [ADD] Removes unnecessary response answer
+
+[33mcommit 3fcb5071e948af6339d317555971a9f54c37b74b[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Tue Nov 24 09:49:15 2020 +0545
+
+    [WIP] form sync indicator/dirty check wip
+
+[33mcommit 6d65568557c7e79d0581747bd15ffcabba5604f5[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Mon Nov 23 14:10:29 2020 +0545
+
+    [FIX] Fixes switch data on section change
+
+[33mcommit 3c1ab5fe6995aa065f1a7277094bee0abfc560f4[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Mon Nov 23 13:57:13 2020 +0545
+
+    [Fix] Add onblur/conchange condition for text only
+
+[33mcommit 4fda244e9c955c21a6e6563ab901d95c28c6e998[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Mon Nov 23 13:26:04 2020 +0545
+
+    [FIX] Style fix for input typetime
+
+[33mcommit 7a5b61a083fa99e84fd8ec49dc3cbe68d0b6ed11[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Mon Nov 23 13:20:30 2020 +0545
+
+    [ADD] Adds image upload,reverts onblur/onchange condition in
+    forminput,adds input type time
+
+[33mcommit d418083c6d685662ed8d0de251c1e2bdec45c60a[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Fri Nov 20 20:12:14 2020 +0545
+
+    [FIx] Fixes onbluer and onchange issue
+
+[33mcommit a6c03384a0cc306333aa3f34d8f5a6b4b21b0515[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Fri Nov 20 19:10:03 2020 +0545
+
+    [FIX] Fixes storage clear on final inspection success
+
+[33mcommit 4aa54f1d86eee5387c441fe22234945b263d54b6[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Fri Nov 20 18:04:49 2020 +0545
+
+    [ADD] routes to overview when inspection is closed
+
+[33mcommit 41665b6f555bf8406ef4b27ff911a9e13829c4fc[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Fri Nov 20 17:53:31 2020 +0545
+
+    [ADD] adds confirmation modal in final inspection
+
+[33mcommit 5db2482d6fbc679582d010d2dd08d33e41c17331[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Fri Nov 20 16:46:01 2020 +0545
+
+    [FIX] Fixes groupInitialVal crash
+
+[33mcommit 961ccfeecf3c579a5c89142bdfe1a8fa82c59f00[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Fri Nov 20 15:31:06 2020 +0545
+
+    wip fix
+
+[33mcommit f8e1b137471f3c8d59ce62fb8c4231e1e0945d6f[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Thu Nov 19 15:49:18 2020 +0545
+
+    [FIX] Fixes form submission on locked and unlocked state
+
+[33mcommit 0e71b6a147ec17f963010e4e4870256d4e0bc6ae[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Thu Nov 19 13:53:16 2020 +0545
+
+    [ADD] Adds dynamic dropdown results in local storage
+
+[33mcommit 7f79c984c7e63389f0b589d78e3a9ca413a53dab[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Wed Nov 18 20:17:08 2020 +0545
+
+    [WIP] Image upload wip
+
+[33mcommit 005508198dbf1c0222f976b0a9b5482abf25e9cb[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Wed Nov 18 13:21:43 2020 +0545
+
+    Removes previous unnecessary codes
+
+[33mcommit e640f576bc8d48c43ba235b547b370b615c863bb[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Wed Nov 18 13:16:44 2020 +0545
+
+    [FIX]Fixes submission on locked for packaging checks
+
+[33mcommit 4dde4039a01007a7f76dca4da7b063a10056e96c[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Wed Nov 18 12:44:13 2020 +0545
+
+    [ADD] Adds functionality to remove group items in scale calibration
+
+[33mcommit cac9cb7214f2835d07f02bcf9297bcccaa6aefed[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Wed Nov 18 12:24:40 2020 +0545
+
+    [FIX] Fixes redux store for scale calibration
+
+[33mcommit 21f45f791054a527ba6919e5ad1308b9b05f452b[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Wed Nov 18 10:12:13 2020 +0545
+
+    [ADD] Adds border in metal detection section
+
+[33mcommit c6e7545ecebac1e330e6b0a069c42f060cb25909[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Fri Nov 13 19:41:38 2020 +0545
+
+    [FIX] Fixes remove crash
+
+[33mcommit 64e6f3b870ea9b08da3167f4d11de7649744fd74[m
+Merge: 90216a5 e666b53
+Author: dpan <dpan.giri@gmail.com>
+Date:   Fri Nov 13 19:38:53 2020 +0545
+
+    Merge branch 'centralRedux' of git.ktmlabs.com:sundar.shahi/altimate-frontend into centralRedux
+
+[33mcommit 90216a5d9f0b791d961e4d2422c23f823f27650d[m
+Author: dpan <dpan.giri@gmail.com>
+Date:   Fri Nov 13 19:38:39 2020 +0545
+
+    UI Fixes , decreases height of input to 45px
+
+[33mcommit e666b53a5cf17b72129c548f3ae7baea1b1b041e[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Fri Nov 13 19:17:45 2020 +0545
+
+    [FIX] Fixes image placeholder, dynamic dropdown in guns
+
+[33mcommit 865c2a3fdda9cd1e2638051eab8d93a6d76f60b5[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Fri Nov 13 18:20:08 2020 +0545
+
+    [FIX] Fixes groupitems
+
+[33mcommit 93943d71c4726b53abbf15691012c9391b5ccb70[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Fri Nov 13 16:51:32 2020 +0545
+
+    [WIP] section 0,1,3 checked
+
+[33mcommit ec8c79daa5be27b2c83646b5562fd87f7a4228e0[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Fri Nov 13 11:02:01 2020 +0545
+
+    [ADD] merges answers for item and additionalAnswers's answers
+    
+    -todo:merge for group type items
+
+[33mcommit ade1a7ef138021d58d0b748b726416ddb3b6fc6a[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Fri Nov 13 09:38:44 2020 +0545
+
+    [WIP] updating data in reducer completed....merging initial arrays wip
+    P# Please enter the commit message for your changes. Lines starting
+
+[33mcommit 1184bc9b19ea5248190c3548780d41eb7e789703[m[33m ([m[1;32mrefactor[m[33m)[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Thu Nov 12 10:15:49 2020 +0545
+
+    [WIP] wip
+
+[33mcommit 0bd7a87ed0a7791499b162771a3209fa035cff63[m[33m ([m[1;31morigin/refactor[m[33m)[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Wed Nov 11 17:05:01 2020 +0545
+
+    [FIX] Fixes dropdown urls for scale calibration
+
+[33mcommit 73ebae76cb35c2d3ebf752406e85aa78813a302e[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Wed Nov 11 15:09:12 2020 +0545
+
+    [FIX] console.log clean up
+
+[33mcommit 14c09d29303c0b6bb08b84704fc28bd7a9324a83[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Wed Nov 11 15:08:10 2020 +0545
+
+    [ADD] Adds submission for group items
+
+[33mcommit 9367fa5c3677899b1d94e749a430c0119cd23c30[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Wed Nov 11 15:00:30 2020 +0545
+
+    [ADD] creates final answer object for answer
+
+[33mcommit c2145ca53c5c400c6284a81f5e4c3ccc25c33cf1[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Wed Nov 11 12:29:31 2020 +0545
+
+    [FIX] Fixes form input labels
+
+[33mcommit 38e7bfd9661e3312700c983c8eeddd4de67a4f4f[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Wed Nov 11 12:21:44 2020 +0545
+
+    [ADD] Uses multiple select instead of add more in dynamic dropdowns
+
+[33mcommit e82f8dd2dc7c0cead0416ac2dbe57b3de3942450[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Wed Nov 11 11:39:41 2020 +0545
+
+    [FIX] Minor fix
+
+[33mcommit 09d467d6f4b5e1e8e871791099d137a0c01270f2[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Wed Nov 11 11:38:28 2020 +0545
+
+    [ADD] Submits add moredata
+
+[33mcommit f9d0a2db335e5b3c09a1e63e3a0f582782d2d635[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Tue Nov 10 16:15:53 2020 +0545
+
+    [FIX] Adds dynamic dropdonw on focus
+
+[33mcommit 17a0be8b77ea8286050a510bb2b6305b424de757[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Tue Nov 10 15:49:13 2020 +0545
+
+    [ADD] Adds dynamic dropdown api fetch
+
+[33mcommit 1a7fd946330636eaf247026980690731aaca0500[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Tue Nov 10 12:17:19 2020 +0545
+
+    [WIP] Wip
+
+[33mcommit 4bdefdfb39461164fee2208cb076875feb29feca[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Mon Nov 9 17:33:35 2020 +0545
+
+    [WIP] Add more wip
+
+[33mcommit 0e4e7fdd428449b93dff2288c268c6d58a8a3a1f[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Mon Nov 9 12:16:47 2020 +0545
+
+    [WIP] Group items answer wip
+
+[33mcommit 26339f238f31a8b42460b2d69272f895067ad15c[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Mon Nov 9 10:05:33 2020 +0545
+
+    [FIX] Fixes final inspection submission when locked
+
+[33mcommit 13ffedbfec21f41e9ac46cb5225ea128552ca0c9[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Fri Nov 6 15:34:35 2020 +0545
+
+    [ADD] Places form inspection form in sidebar
+
+[33mcommit 0a98cd807304479a6e81092076c6b494aaf11753[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Fri Nov 6 15:03:23 2020 +0545
+
+    [ADD] Adds response close module
+    
+    -todo:put the response close module in appropriate place
+
+[33mcommit 794f4934f765f36ad4e632cdf54c6bfe857a80c4[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Thu Nov 5 18:34:12 2020 +0545
+
+    [WIP] Closing modal wip
+
+[33mcommit d42f5e5564da381c53f671d151b536129d931b43[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Thu Nov 5 15:17:29 2020 +0545
+
+    [ADD] Changes switch value to pass or fail
+
+[33mcommit 6db804529f0e86ac50edb95bb632e569e6602e75[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Thu Nov 5 15:10:04 2020 +0545
+
+    [ADD] Minor ui fixes
+
+[33mcommit 58685ac1680d40659ee17089b09a5c7a78192e12[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Thu Nov 5 14:58:46 2020 +0545
+
+    [FIX] style fixes
+
+[33mcommit 1f2c3b4c8e7dab8c9a9a643760db86960d56ec0b[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Thu Nov 5 12:59:57 2020 +0545
+
+    [ADD] Adds item only component form submission
+
+[33mcommit 255fe8bc75bcea27dd5d8fcc9000422717353ee2[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Thu Nov 5 09:50:32 2020 +0545
+
+    [FIX] Fixes additional answer submit
+    
+    -fixes additional answer array creation by mapping item component in
+    parent
+
+[33mcommit 85e1a628b83aa0e05301ff2fc2473e3acfc51bf1[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Wed Nov 4 16:15:10 2020 +0545
+
+    [WIP] prepoulating answers wip
+
+[33mcommit 99673e1e82a248f887acbef0086276c1e861d6c8[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Wed Nov 4 09:14:02 2020 +0545
+
+    [ADD] Adds changes for deployement fix
+
+[33mcommit 8ec2dfb1ccd15f6368e78322d50195d2e7ed07b3[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Tue Nov 3 18:38:29 2020 +0545
+
+    [WIP] Reverts back to hash router
+
+[33mcommit 6503ffc158a68385f33c365199e11deb5f4befa8[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Tue Nov 3 17:21:33 2020 +0545
+
+    [ADD] Adds additional answer in form submission
+
+[33mcommit c750e004a9ba92e525021372c885526ea7a3ffb1[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Tue Nov 3 14:58:38 2020 +0545
+
+    [ADD] Stores response ID in local storate
+    
+    -todo continue after the api is changed
+
+[33mcommit c659304eeaf651b4510a6d1effe70c74c169e90f[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Tue Nov 3 13:15:22 2020 +0545
+
+    [ADD] Adds dynamic width to form input,other minor ui fixes
+
+[33mcommit d970a2adf70764f295e321a63e075ae21ae9fbfe[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Tue Nov 3 10:29:49 2020 +0545
+
+    [ADD] Adds auth modal login in overview submit
+
+[33mcommit 2a0322a8d711367b7da4eb9c52c5ee68b312fab6[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Mon Nov 2 18:31:05 2020 +0545
+
+    [ADD] Adds create response funcitonality from overview
+    
+    -create overview complete
+    -todo: handle failure responses
+
+[33mcommit 93366b3e33d0a8d1ff9c6bb1202fe92159a39492[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Mon Nov 2 17:57:38 2020 +0545
+
+    [ADD] Adds sku,machine list from api
+    
+    -todo: handle fetch failure,use createAsyncThunk
+
+[33mcommit 8d04e767473242dcfa912af2c9f62e0fd5f559e9[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Mon Nov 2 17:10:52 2020 +0545
+
+    [WIP] dynamic width wip
+
+[33mcommit 51b4dbb2a1f24f54b3ed8d7592dba159f52f0663[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Mon Nov 2 16:30:34 2020 +0545
+
+    [WIP]ADds auth modal in overview submit,form submission wip
+
+[33mcommit 4f2ae66d32f7d2d5504b2cd017926667e35ab463[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Mon Nov 2 15:34:11 2020 +0545
+
+    [ADD] Adds validation in overview form
+
+[33mcommit 5e81ac237a434a4460e3e26d4ecebf2811d048a3[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Mon Nov 2 14:21:50 2020 +0545
+
+    [ADD] Adds overview ui
+
+[33mcommit 64573fafa44e6e7c1b7fb6937c5c2f3eac079418[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Mon Nov 2 12:25:09 2020 +0545
+
+    [ADD] Minor ui fixes
+
+[33mcommit 342c6a8a798845ef7310c698151462abaa35f3e6[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Fri Oct 30 17:49:55 2020 +0545
+
+    [ADD] Changes axios in auth api to fetch api
+
+[33mcommit 6fad39d7af6fabd679489c2b18954f00a94297a9[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Fri Oct 30 15:56:30 2020 +0545
+
+    [FIX] Closes modal in login success
+
+[33mcommit 3deb771e6f9344859cadd5f8d3f464f970c15065[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Fri Oct 30 15:47:59 2020 +0545
+
+    [ADD] Adds auth credential in header
+
+[33mcommit 4729282c7e20edf7ee2cf480dca5c18ad1ba3087[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Fri Oct 30 14:29:18 2020 +0545
+
+    [ADD] Adds lock confirmation
+    
+    -todo:fix confirmation styling
+
+[33mcommit 7a444f0ba979af5725dd51dcc9c94e4288708b8f[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Fri Oct 30 14:20:29 2020 +0545
+
+    [ADD] Adds pin login, checks auth before submitting'
+    
+    -todo:reflect changes in reducer
+
+[33mcommit be3c79e413517703e784430cb1fbce16eb065a09[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Fri Oct 30 13:49:06 2020 +0545
+
+    [ADD] Adds reusable authmodal,fixes formdata submission
+
+[33mcommit b07cee31d5d56398cdc13090c9de51597c5dac76[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Thu Oct 29 15:14:46 2020 +0545
+
+    [WIP] Section services wip
+
+[33mcommit de1c69d1f4549337fe629f217303d8efb0bbe897[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Thu Oct 29 14:17:52 2020 +0545
+
+    [ADD] adds forward ref for the update button action
+
+[33mcommit 3b624ff2cfd818a13243c02b282494a3bcd0dbd9[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Thu Oct 29 12:33:45 2020 +0545
+
+    [ADD] Adds answer object for single items type question
+
+[33mcommit 5f0932d2e805b2793ed74deea8e232042922425c[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Thu Oct 22 18:35:09 2020 +0545
+
+    [ADD]Adds input components on change handler
+
+[33mcommit 6492d0bde4963a054462ba91dc956ef1d83e7fe5[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Thu Oct 22 14:05:01 2020 +0545
+
+    [ADD] Adds dynamic group items
+
+[33mcommit 06342a7294d0594a9d2b2ca0103b4568c44e3fba[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Thu Oct 22 10:26:22 2020 +0545
+
+    [ADD] Adds condition for type group
+
+[33mcommit 7f6a9863f9c94091b86ed4231d1286e172997f69[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Wed Oct 21 18:41:02 2020 +0545
+
+    [FIX] Fixes extra card component at the bottom
+
+[33mcommit 488b12a7ff4c67efef9602d6f8763bafbeb61089[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Wed Oct 21 18:36:35 2020 +0545
+
+    [ADD ] Adds item component in the content section
+
+[33mcommit b1de5dd603a6c233ec68ee66ca37e1da868251a2[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Wed Oct 21 18:34:42 2020 +0545
+
+    [ADD] Adds full width input components
+
+[33mcommit 8f0ff497c2030433d26bc9b035c5715d2afbcb7e[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Wed Oct 21 18:14:09 2020 +0545
+
+    [ADD] Temporarily adds auth form in the content
+    
+    -temporarily adds auth form in the content to show auth form when update
+    is clicked
+
+[33mcommit bbe1f3742d8cd2e06889ea0b3e1f2519b174da47[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Wed Oct 21 14:43:31 2020 +0545
+
+    [WIP]
+
+[33mcommit c096c4f6f624363985d09542e3c1fdc8378aa511[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Wed Oct 21 12:25:49 2020 +0545
+
+    [ADD]Places switch in the item header
+
+[33mcommit 82f94bc1553ca17d74cf0c17c3439aaf3daed6b4[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Wed Oct 21 11:32:04 2020 +0545
+
+    [ADD] Adds add and remove in input component
+
+[33mcommit edb0914ea31dba58dd89e43b0f09007c817990fb[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Tue Oct 20 18:38:06 2020 +0545
+
+    [ADD] Adds additional input components
+
+[33mcommit dc893f13da637a2603c72010f8fced22f55c51f9[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Tue Oct 20 18:27:57 2020 +0545
+
+    [WIP] forminput wip
+
+[33mcommit 7dc52ac27348e67c81c9a9c72a0c8824044e8f06[m
+Author: sjonchhe <sandeshjon@gmail.com>
+Date:   Tue Oct 20 17:18:03 2020 +0545
+
+    [ADD] Adds separate subsection,items component
+    
+    -uses blackbox approach
+    -removes react router implementation
+    -
+
+[33mcommit f10b7bcdd4904e788091aed15593d83b5ae88901[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Tue Oct 20 10:08:03 2020 +0545
+
+    wip: sample and merge UI
+
+[33mcommit 68ed3dcddba7feff85b7ed63c0ff2e8155a0bd35[m
+Merge: cd38013 7e89db5
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Tue Oct 20 09:01:56 2020 +0545
+
+    Merge branch 'UI' of git.ktmlabs.com:sundar.shahi/altimate-frontend into dev
+
+[33mcommit 7e89db53cfe38e146a3cf4da87a2496e69968eca[m[33m ([m[1;31morigin/UI[m[33m)[m
+Author: dpan <dpan.giri@gmail.com>
+Date:   Mon Oct 19 21:54:38 2020 +0545
+
+    adds new deisgn to each component
+
+[33mcommit cd3801341f7b1d674337e295075aa9920e59f660[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Mon Oct 19 19:46:12 2020 +0545
+
+    wip: options
+
+[33mcommit 31708e6076171506c4fe1d636ff92d9ffa150002[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Mon Oct 19 16:28:59 2020 +0545
+
+    WIP: dynamic form elements
+
+[33mcommit 113ab984af144f76ec19fcd215519a7d5cec778b[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Fri Oct 16 12:31:23 2020 +0545
+
+    refactor: redirect to auth page if locked during update
+
+[33mcommit 23cc534e893adca609e9157a87d38083d9e3ad7f[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Fri Oct 16 11:55:04 2020 +0545
+
+    refactor: meta descriptions
+
+[33mcommit 4af06ab5f6c28791094084a34a04e71fe6226f1c[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Fri Oct 16 11:49:33 2020 +0545
+
+    refactor: remove unused var
+
+[33mcommit 770a2403113262412879b652c0deb8ac73bb393c[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Fri Oct 16 11:48:46 2020 +0545
+
+    refactor:[REMOVED] unused file
+
+[33mcommit 8e88ac4cdfdb7be4a93c083e314e41d33b2364ea[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Fri Oct 16 11:25:10 2020 +0545
+
+    refactor: seprate auth form logic from component for modal
+
+[33mcommit 4d7401b1f96eabd83f2d65d1b0741f369a2ff839[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Thu Oct 15 22:29:34 2020 +0545
+
+    refactor: migrate to https baseurl
+
+[33mcommit 89a62c8d386d8b5dc615d94f363ea7438e2231e1[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Thu Oct 15 22:07:23 2020 +0545
+
+    feat: auth modal on update
+
+[33mcommit 393426bc792c4235a953ceb28673c997c6076684[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Thu Oct 15 21:04:11 2020 +0545
+
+    feat: [ADD] toaster notification on unlock success
+
+[33mcommit cb44ed40592ea37843caee79c3ecb5a032182eb0[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Thu Oct 15 21:03:20 2020 +0545
+
+    chore: notification toaster component
+
+[33mcommit 46abdda5b2312f965d93d22db15c8084b26ff3d2[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Thu Oct 15 21:02:48 2020 +0545
+
+    refactor: redirect to homepage if unlock
+
+[33mcommit 7a3bccc9d37e72693696a8453786be91965d403b[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Thu Oct 15 19:57:39 2020 +0545
+
+    refactor: [ADD] lock reducer, get initial state from local storage
+
+[33mcommit 59084c61d44547ee4d7522fdb816f82536910038[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Thu Oct 15 19:56:26 2020 +0545
+
+    feat: auth page api integration
+
+[33mcommit 184645d725115a32a45a6c272d0e9ee50f692bce[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Thu Oct 15 19:55:08 2020 +0545
+
+    setup: [ADD] middleware,disable serializable check
+
+[33mcommit ffdefaec3ac8e6aa465980f4033805091b7b5245[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Thu Oct 15 19:53:32 2020 +0545
+
+    refactore: store auth details in localstorage
+
+[33mcommit 3dd90bbeebb6edd0023f168152b32cf48c1be9ae[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Thu Oct 15 16:43:56 2020 +0545
+
+    chore: auth service and reducer
+
+[33mcommit c760e2acda4a2898f01477392fac13ad0a019694[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Thu Oct 15 13:40:43 2020 +0545
+
+    refactor: remove commented code
+
+[33mcommit 499a8fbcb11c3be4e7bedd481587eee639c9a1b7[m
+Merge: bd97763 a72dbee
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Thu Oct 15 13:28:27 2020 +0545
+
+    Merge branch 'master' of git.ktmlabs.com:sundar.shahi/altimate-frontend into dev
+
+[33mcommit bd97763fa94a7bfdbfecca766bc90bd4f37706c4[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Thu Oct 15 13:28:19 2020 +0545
+
+    feat: dynamically render sections, subsections  from api
+
+[33mcommit f3887e77713a65b3d7a589fcc4877d2558a446a1[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Thu Oct 15 10:43:12 2020 +0545
+
+    refactor: reducers initial state and status
+
+[33mcommit 240e73f87da375d9cb722c31efa9c2c057114f06[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Wed Oct 14 22:04:55 2020 +0545
+
+    chore: user reducer
+
+[33mcommit 6db0b316116f535ea61bc3375177a68ba6d8e741[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Wed Oct 14 22:04:24 2020 +0545
+
+    chore: users services
+
+[33mcommit 1db659a8be8a753ebd9f528c63ccde259194210d[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Wed Oct 14 21:59:31 2020 +0545
+
+    refactor: checklist reducer
+
+[33mcommit a72dbeea20b660cd3e8c81b838ea985316709f5a[m
+Merge: bb4f059 bec5ffb
+Author: Sundar Shahi Thakuri <shahithakurisundar@gmail.com>
+Date:   Wed Oct 14 20:46:49 2020 +0545
+
+    Merge branch 'dev' into 'master'
+    
+    merge Dev
+    
+    See merge request sundar.shahi/altimate-frontend!5
+
+[33mcommit bec5ffb78380809e649d7448b341dbe2116a979c[m
+Merge: 1c2aafa 6eed7e4
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Wed Oct 14 20:45:34 2020 +0545
+
+    Merge branch 'UI' of git.ktmlabs.com:sundar.shahi/altimate-frontend into dev
+
+[33mcommit 1c2aafa1b13e91e8a9113c8f9e58b29ceef324e8[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Wed Oct 14 20:37:28 2020 +0545
+
+    chore: checklist reducer
+
+[33mcommit 4c6220395b85b3fcd4d2ee9351dbd2d29216987c[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Wed Oct 14 20:36:58 2020 +0545
+
+    chore: checklist services fetch by id
+
+[33mcommit 803145f3a59410fcabfa6637bc5bdb86ce5aa712[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Wed Oct 14 20:36:15 2020 +0545
+
+    refacator:  fix store imports
+
+[33mcommit 1f86ea719f31b547ba6cc39e0dd30cfcd3008035[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Wed Oct 14 20:35:07 2020 +0545
+
+    chore: axios instance and congif
+
+[33mcommit 84ad287e5a14cab41e863e841befb6fed8565a37[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Wed Oct 14 20:11:10 2020 +0545
+
+    setup:config and env example
+
+[33mcommit 11e6137784d205571863252eeb009c3d7505ad45[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Wed Oct 14 20:02:54 2020 +0545
+
+    refactor: move reducer inside store
+
+[33mcommit 6eed7e456c15766c081d46627a85b10f1532d241[m
+Author: dpan <dpan.giri@gmail.com>
+Date:   Wed Oct 14 19:19:00 2020 +0545
+
+    refines design of switch and radiobutton
+
+[33mcommit e2e6ad35bb9aa653b6ce37794e78da13983a933f[m
+Author: dpan <dpan.giri@gmail.com>
+Date:   Wed Oct 14 18:51:51 2020 +0545
+
+    refines design of input fields , login form , changes size of container
+
+[33mcommit 4d936faefe4a4235bd59baa9fcbd7a231280a664[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Wed Oct 14 18:20:02 2020 +0545
+
+    chore: dependency lockfile updtae
+
+[33mcommit 1dac51e762ecf9cf903e256ca13ee09a448f2990[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Wed Oct 14 18:19:10 2020 +0545
+
+    chore:[DEPENDENCY] add axios
+
+[33mcommit c34bbe1d374814a19c49c7e74db96a8a9992b109[m
+Merge: bb4f059 2feae00
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Wed Oct 14 15:34:04 2020 +0545
+
+    Merge branch 'dev' of git.ktmlabs.com:sundar.shahi/altimate-frontend into dev
+
+[33mcommit bb4f05920b9da41eb4fb0f1ac6379cada8fe4ac6[m
+Merge: 200ba16 52a3a85
+Author: Bishnu <bidaribishnu7@gmail.com>
+Date:   Wed Oct 14 14:13:35 2020 +0545
+
+    Merge branch 'dev' into 'master'
+    
+    merge dev into master
+    
+    See merge request sundar.shahi/altimate-frontend!4
+
+[33mcommit 52a3a8566be1cb9a623c14bba554f1bc73057010[m
+Author: Bishnu <bidaribishnu7@gmail.com>
+Date:   Wed Oct 14 14:13:35 2020 +0545
+
+    merge dev into master
+
+[33mcommit 2feae007f88d8fe0c990e6e6d094a5285e35f7a0[m
+Merge: 110d62c c58e248
+Author: Bishnu <bidaribishnu7@gmail.com>
+Date:   Wed Oct 14 14:12:33 2020 +0545
+
+    Merge branch 'deploy' into 'dev'
+    
+    Deploy
+    
+    See merge request sundar.shahi/altimate-frontend!3
+
+[33mcommit c58e248ddd44a2bc7ab5b3a3b0fb450ee8302934[m
+Author: Bishnu <bidaribishnu7@gmail.com>
+Date:   Wed Oct 14 14:12:32 2020 +0545
+
+    Deploy
+
+[33mcommit 110d62c5fe014525559ee6a3091480d9d04b123d[m
+Merge: 03a2e72 725c666
+Author: Bishnu <bidaribishnu7@gmail.com>
+Date:   Wed Oct 14 13:56:58 2020 +0545
+
+    Merge branch 'deploy' into 'dev'
+    
+    Deployment scripts added
+    
+    See merge request sundar.shahi/altimate-frontend!2
+
+[33mcommit 725c666bd6b641c446a9f1cbd01975a2db763316[m
+Author: Bishnu <bidaribishnu7@gmail.com>
+Date:   Wed Oct 14 13:56:57 2020 +0545
+
+    Deployment scripts added
+
+[33mcommit 200ba169cc51e25f6c1d3d6c5b940b33a5ba44b4[m
+Merge: 03a2e72 0a8a7ed
+Author: Sundar Shahi Thakuri <shahithakurisundar@gmail.com>
+Date:   Wed Oct 14 11:08:12 2020 +0545
+
+    Merge branch 'UI' into 'master'
+    
+    Ui Changes
+    
+    See merge request sundar.shahi/altimate-frontend!1
+
+[33mcommit 0a8a7ed030485d921586544e5fa5cdfb59906008[m
+Merge: 13eb3ed 03a2e72
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Wed Oct 14 10:58:03 2020 +0545
+
+    Merge branch 'master' of git.ktmlabs.com:sundar.shahi/altimate-frontend into UI
+
+[33mcommit 13eb3ed9098bcbc324f9e82bcaf7d0c45a7ca707[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Wed Oct 14 10:57:37 2020 +0545
+
+    refactor: update gitignore
+
+[33mcommit ed2d59b205d1b47d1b61e5d6c9f3cf0f78335262[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Wed Oct 14 10:56:59 2020 +0545
+
+    refactor: remove package lock
+
+[33mcommit 3b444124566dcf14e0de22f9e314ee733113c898[m
+Author: dpan <dpan.giri@gmail.com>
+Date:   Wed Oct 14 10:50:19 2020 +0545
+
+    minor fixes in dashboard body
+
+[33mcommit d23e2e07fbd3c71d50a4aee008f99c387b092849[m
+Author: dpan <dpan.giri@gmail.com>
+Date:   Wed Oct 14 10:40:55 2020 +0545
+
+    font will be replaced with NOTO SANS font, sidebar design will be refined
+
+[33mcommit 03a2e723622bc23ef996bdcd0abae7e7f0b425c8[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Wed Oct 14 10:14:20 2020 +0545
+
+    refactor: dynamic card form
+
+[33mcommit 2a844b300b95e82aa3a122b6fd3edb71a999f71f[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Wed Oct 14 09:03:07 2020 +0545
+
+    refactor: remove console log
+
+[33mcommit 9c34d602fdbefc6fee1537b0c8ec727c90a07020[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Wed Oct 14 08:29:27 2020 +0545
+
+    refactor: import selector from reducer
+
+[33mcommit ee5c5a041b1d87362d166595ab320820dfdacf1e[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Wed Oct 14 08:28:37 2020 +0545
+
+    refactor: export selector  from reducer
+
+[33mcommit 423aa71a7365a70d238edcee524f3946a1bb8c96[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Tue Oct 13 23:10:57 2020 +0545
+
+    chore: form reducer
+
+[33mcommit 41b6902461e940a62920b617065b4c1d7f99b05d[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Tue Oct 13 22:41:09 2020 +0545
+
+    refactor: [REMOVED] old store setup
+
+[33mcommit d3a7aa7087a42307e8aa00ae44fcde3c3b4eefa3[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Tue Oct 13 22:40:41 2020 +0545
+
+    chore: sidebar reducer
+
+[33mcommit ff37340787902b7db5d2bfcdbce983b508ae8684[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Tue Oct 13 22:39:46 2020 +0545
+
+    chore: setup redux with toolkit
+
+[33mcommit 4d2a95f68c44691e475a586066cf9a51f6eae02f[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Tue Oct 13 22:38:46 2020 +0545
+
+    chore: [Dependencies] redux toolkit
+
+[33mcommit 00d304019daf7989db2fd36a5ab1cda5d634323a[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Tue Oct 13 17:04:05 2020 +0545
+
+    docs: [UPDATE] Readme to guide the project start
+
+[33mcommit 45760496ef97c8159a1745f48c312f7a8a3e3f5d[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Tue Oct 13 11:02:56 2020 +0545
+
+    style: horizontal alignment of cards
+
+[33mcommit 2951b36e75c2c356c90cc49a47babb83ef0d6dfd[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Tue Oct 13 00:06:54 2020 +0545
+
+    chore: [POC] form in card test
+
+[33mcommit 9aaadb716184d0b50c923ef85c5e497a95e90371[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Mon Oct 12 19:05:14 2020 +0545
+
+    chore: test image upload
+
+[33mcommit bb866853e3f2998cc3334b3cd985b093ff473350[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Mon Oct 12 19:04:48 2020 +0545
+
+    chore: image upload component
+
+[33mcommit 8a855dc55741ca7153904fb07382f99a5f623b61[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Mon Oct 12 19:04:17 2020 +0545
+
+    style: zebra row
+
+[33mcommit b8d1956b4a8e68c7e4c0bdc625d347682ccd52d0[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Mon Oct 12 09:06:12 2020 +0545
+
+    chore: status badge before label test
+
+[33mcommit da80f1b437dd5f02f95a03b15467a65bcf846f54[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Mon Oct 12 09:04:55 2020 +0545
+
+    style: design experiments
+
+[33mcommit a39935ef33d994500513a68bbc5e14dea7526452[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Fri Oct 9 22:20:09 2020 +0545
+
+    style: colors and sidebar design changes
+
+[33mcommit 74fb1bcc6d18695579d4e9eccaad7f2b9bce714f[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Fri Oct 9 22:19:20 2020 +0545
+
+    feat: ant design theming and config override
+
+[33mcommit 94f5d19d7adb02eb077ae0803d7f702107402cf1[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Fri Oct 9 19:33:58 2020 +0545
+
+    chore: [POC] create forms from json data
+
+[33mcommit 66fa30d8afb67badfa495654ab8a719990b61dfa[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Fri Oct 9 19:29:03 2020 +0545
+
+    style: change sidebar styles
+
+[33mcommit 5ccaff9dbdce30bac8eaab7a5650cc73ebb35f7b[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Fri Oct 9 13:28:36 2020 +0545
+
+    chore: bestbefore form with dynamic form test
+
+[33mcommit 13eae029665f24436542a56eecb20068a6916c27[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Fri Oct 9 09:33:35 2020 +0545
+
+    refactro: [REMOVE] unused variables and library
+
+[33mcommit 210ec9995eb4499b602be890c2b9d43fc67ab2ac[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Fri Oct 9 09:29:23 2020 +0545
+
+    refactor: [FIX] verification checks form input redundancy.
+
+[33mcommit c2c8dd80cb21c16c44c28f68965c01c74fedea24[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Thu Oct 8 20:35:49 2020 +0545
+
+    chore: food service product form
+
+[33mcommit 4e7a448188b6f91a87f4b7a11e9d4352cad3872c[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Thu Oct 8 20:08:25 2020 +0545
+
+    chore: retail product only form
+
+[33mcommit 03f1d12687c02f7e1e05f80053180c7d026d6e8d[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Thu Oct 8 19:55:12 2020 +0545
+
+    chore: scale calibration checks form
+
+[33mcommit e13dbcbdaacb49b95084b27f232f1417da03eb9b[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Thu Oct 8 19:11:36 2020 +0545
+
+    chore: packging checks form
+
+[33mcommit f96370b2c302c474ec8a319252025b5cd7ddd75d[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Thu Oct 8 18:04:26 2020 +0545
+
+    feat: [UI] auth page lock,unlock pin
+
+[33mcommit 8bcd899c688b8171d6b3124dee9bb501cbde4b1a[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Thu Oct 8 17:34:29 2020 +0545
+
+    feat: [UI] verification check form
+
+[33mcommit bd3cea45a334fd6a7fcfe77e2a7b73d2f2274551[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Thu Oct 8 14:35:22 2020 +0545
+
+    refactor: forms UI
+
+[33mcommit 7df86f5820c3536ec92d04197bf90ee8b24698cc[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Thu Oct 8 08:20:34 2020 +0545
+
+    refactor:  remove un-necessary files
+
+[33mcommit 45e7dd9ef183069f43b1a7163bb3b1f4812eaf7d[m
+Author: sundarshahi <shahithakurisundar@gmail.com>
+Date:   Tue Oct 6 17:23:30 2020 +0545
+
+    Initial commit
